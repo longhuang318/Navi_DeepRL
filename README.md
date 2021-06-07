@@ -1,4 +1,4 @@
-**in progress!**
+**in progress!**  (turlebot, Tensorflow, Gazebo, Deep recurrent Q-learning)
 
 ## Navi_DeepRL
 Goal: use deep reinforcement learning to realize obstacle avoidance.
